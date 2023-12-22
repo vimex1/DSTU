@@ -20,3 +20,5 @@ class NonFiction(Book):
 
 class Poetry(Book):
     pass
+
+# Внесено изменение
