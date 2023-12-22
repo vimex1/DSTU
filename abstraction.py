@@ -1,5 +1,3 @@
-# Мой первый commit
-
 from abc import ABC, abstractmethod
 
 class Book(ABC):
